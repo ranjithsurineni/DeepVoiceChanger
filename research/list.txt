@@ -1,0 +1,30 @@
+
+
+1. **"Real-Time Voice Cloning"**  
+   *Authors:* Daspute, Pandit, et al.  
+   *Summary:* This paper presents a three-stage deep learning system designed for real-time voice cloning, enabling the capture and generation of speech in less time than the duration of the produced speech. citeturn0search1
+
+2. **"Multi-level Temporal-channel Speaker Retrieval for Zero-shot Voice Conversion"**  
+   *Authors:* Zhichao Wang, Liumeng Xue, Qiuqiang Kong, Lei Xie, Yuanzhe Chen, Qiao Tian, Yuping Wang  
+   *Summary:* This study introduces a robust zero-shot voice conversion model, MTCR-VC, which employs a novel fine-grained speaker modeling method to adapt dynamically to speaker characteristics in both temporal and channel dimensions. citeturn0search2
+
+3. **"Research on Voice Cloning with a Few Samples"**  
+   *Authors:* [Authors not specified]  
+   *Summary:* This research proposes a method to achieve real-time voice cloning using only a few samples, differing from traditional models by focusing on efficiency and minimal data requirements. citeturn0search3
+
+4. **"Improving Automated Speech Recognition Using Retrieval-Based Voice Conversion"**  
+   *Authors:* Anas Mohammed Alhumud, Muhammad AL-Qurishi, Yasser Omar Alomar, Ali Alzahrani, Riad Soussi  
+   *Summary:* This study examines the efficacy of voice conversion techniques in enhancing automatic speech recognition accuracy for non-native English speakers, utilizing the OpenAI Whisper models. citeturn0search0
+
+5. **"Voice Cloning Using Artificial Intelligence and Machine Learning: A Review"**  
+   *Authors:* [Authors not specified]  
+   *Summary:* This comprehensive review focuses on integrating emotions, text-to-speech conversion, and state-of-the-art voice cloning, addressing novel background noise adaptation, emotional voice synthesis, and multi-speaker voice cloning for improved speech synthesis. citeturn0search5
+
+6. **"LHQ-SVC: Lightweight and High Quality Singing Voice Conversion"**  
+   *Authors:* [Authors not specified]  
+   *Summary:* This paper proposes LHQ-SVC, a lightweight, CPU-compatible model based on the SVC framework and diffusion model, designed to reduce model size and computational demand without sacrificing performance. citeturn0search12
+
+7. **"A Real-Time Voice Cloning System with Multiple Algorithms for Speech Quality Improvement"**  
+   *Authors:* Weixin Hu, Xianyou Zhu  
+   *Summary:* This research focuses on enhancing the performance of the synthesizer module to achieve higher-quality speech synthesis audio output, incorporating improved preprocessing and waveform conversion modules. citeturn0search19
+
