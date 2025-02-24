@@ -148,9 +148,9 @@ def plot_waveform(file_path):
 
 **Initial dataset voice sample file: in *.wav **
 ![55efc1b3-5c4d-440e-84b4-6157dc3dacf8](https://github.com/user-attachments/assets/4fdfeb2b-0085-4673-a9a2-b4d635f8bcac)
-✅ Audio Loaded: D:\projects\voice_conversion\data\LJSpeech-1.1\wavs\LJ001-0001.wav
-📌 Sample Rate: 22050 Hz
-📌 Duration: 9.66 seconds
+✅ Audio Loaded: D:\projects\voice_conversion\data\LJSpeech-1.1\wavs\LJ001-0001.wav.
+📌 Sample Rate: 22050 Hz.
+📌 Duration: 9.66 seconds.
 
 
 **Heapmap of extracted file *.npy :**
@@ -160,9 +160,9 @@ def plot_waveform(file_path):
 **Converted voice sample: in *.wav **
 ![cac7c25b-f7d1-4896-86b7-e67c3ef9703a](https://github.com/user-attachments/assets/be026970-f1fe-4df4-8595-f60389a5ac91)
 
-✅ Audio Loaded: D:\projects\voice_conversion\results\converted_audio.wav
-📌 Sample Rate: 22050 Hz
-📌 Duration: 0.28 seconds
+✅ Audio Loaded: D:\projects\voice_conversion\results\converted_audio.wav.
+📌 Sample Rate: 22050 Hz.
+📌 Duration: 0.28 seconds.
 
 
 ## 📜 Future Improvements
